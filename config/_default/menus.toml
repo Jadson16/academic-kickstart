@@ -14,18 +14,18 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Projetos"
+  url = "#projetos"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Publicações"
+  url = "#destaque"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Contato"
+  url = "#contato"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
